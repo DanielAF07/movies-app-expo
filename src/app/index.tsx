@@ -1,10 +1,12 @@
-import { Text, View } from 'react-native'
+import HomeScreen from '../presentation/screens/home/HomeScreen'
+import { Stack } from 'expo-router'
 
 const RootIndex = () => {
   return (
-    <View>
-      <Text>Movies App</Text>
-    </View>
+    <>
+    <Stack.Screen options={{title: 'Home'}}/>
+    <HomeScreen />
+    </>
   )
 }
 export default RootIndex
