@@ -10,19 +10,13 @@ MoviesApp allows users to explore and discover information about movies, using d
 
 To explore the app:
 
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-   ```
-
-2. Install dependencies:
+1. Install dependencies:
 
    ```bash
    npm install
    ```
 
-3. Start the app:
+2. Start the app:
 
    ```bash
    npx expo start
