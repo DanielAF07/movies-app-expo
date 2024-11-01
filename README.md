@@ -28,6 +28,10 @@ To explore the app:
    - An [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
    - [Expo Go](https://expo.dev/go) for viewing on a physical device
 
+## Screenshots
+<img src="https://github.com/user-attachments/assets/ca517003-c85c-40a8-9a93-0d15bb1659c2" width="400" alt="Screenshot of MoviesApp" />
+
+
 ## Learn More
 
 To learn more about how the app works and its development:
